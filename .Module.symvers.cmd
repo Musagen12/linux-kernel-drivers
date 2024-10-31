@@ -1,0 +1,1 @@
+savedcmd_/home/ubuntu/kernel_drivers/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/ubuntu/kernel_drivers/Module.symvers -T /home/ubuntu/kernel_drivers/modules.order -i Module.symvers -e 
